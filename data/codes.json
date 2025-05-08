@@ -1,0 +1,174 @@
+[
+  {
+    "code": "1",
+    "verificationCode": "DEFUSE1",
+    "location": {
+      "lat": 12.866717,
+      "lng": 74.925266
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "2",
+    "verificationCode": "DEFUSE2",
+    "location": {
+      "lat": 12.866722,
+      "lng": 74.925500
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "3",
+    "verificationCode": "DEFUSE3",
+    "location": {
+      "lat": 12.914779,
+      "lng": 74.828585
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "4",
+    "verificationCode": "DEFUSE4",
+    "location": {
+      "lat": 12.914941,
+      "lng": 74.828763
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "5",
+    "verificationCode": "DEFUSE5",
+    "location": {
+      "lat": 12.914843,
+      "lng": 74.829201
+    },
+    "teams": [
+      "TeamGamma",
+      "TeamBeta"
+    ],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "6",
+    "verificationCode": "DEFUSE6",
+    "location": {
+      "lat": 12.915158,
+      "lng": 74.829434
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "7",
+    "verificationCode": "DEFUSE7",
+    "location": {
+      "lat": 12.915485,
+      "lng": 74.829656
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "8",
+    "verificationCode": "DEFUSE8",
+    "location": {
+      "lat": 12.91542,
+      "lng": 74.830315
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "9",
+    "verificationCode": "DEFUSE9",
+    "location": {
+      "lat": 12.915456,
+      "lng": 74.829951
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "10",
+    "verificationCode": "DEFUSE10",
+    "location": {
+      "lat": 12.916383,
+      "lng": 74.830786
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "11",
+    "verificationCode": "DEFUSE11",
+    "location": {
+      "lat": 12.91617,
+      "lng": 74.829698
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "12",
+    "verificationCode": "DEFUSE12",
+    "location": {
+      "lat": 12.915806,
+      "lng": 74.829649
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "13",
+    "verificationCode": "DEFUSE13",
+    "location": {
+      "lat": 12.915741,
+      "lng": 74.829236
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "14",
+    "verificationCode": "DEFUSE14",
+    "location": {
+      "lat": 12.915534,
+      "lng": 74.828783
+    },
+    "teams": [],
+    "completedBy": [],
+    "locked": false
+  },
+  {
+    "code": "15",
+    "verificationCode": "DEFUSE15",
+    "location": {
+      "lat": 12.915776,
+      "lng": 74.82898
+    },
+    "teams": [
+      "TeamBeta",
+      "TeamGamma",
+      "teamrock"
+    ],
+    "completedBy": [],
+    "locked": false
+  }
+]

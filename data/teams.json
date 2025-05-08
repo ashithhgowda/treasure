@@ -1,0 +1,42 @@
+{
+  "TeamAlpha": {
+    "password": "alpha123",
+    "points": 0,
+    "currentClue": null,
+    "attempts": {},
+    "disqualified": false
+  },
+  "TeamBeta": {
+    "password": "beta456",
+    "points": 0,
+    "currentClue": null,
+    "attempts": {},
+    "disqualified": false,
+    "totalIncorrectAttempts": 0,
+    "round2": {
+      "availableCodes": [
+        "code1",
+        "code2",
+        "code3",
+        "code4",
+        "code5",
+        "code6",
+        "code7",
+        "code8",
+        "code9",
+        "code10",
+        "code11",
+        "code12"
+      ],
+      "frozenCodes": [],
+      "attempts": {}
+    }
+  },
+  "admin": {
+    "password": "admin123",
+    "points": 0,
+    "currentClue": null,
+    "attempts": {},
+    "disqualified": false
+  }
+}
